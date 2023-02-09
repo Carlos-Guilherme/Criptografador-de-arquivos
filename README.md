@@ -1,0 +1,1 @@
+# Criptografador-de-arquivos
